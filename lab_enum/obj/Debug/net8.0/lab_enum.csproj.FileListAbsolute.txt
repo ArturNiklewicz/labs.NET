@@ -1,0 +1,14 @@
+/Users/arturniklewicz/dNET/labs.NET/lab_enum/obj/Debug/net8.0/lab_enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturniklewicz/dNET/labs.NET/lab_enum/obj/Debug/net8.0/lab_enum.AssemblyInfoInputs.cache
+/Users/arturniklewicz/dNET/labs.NET/lab_enum/obj/Debug/net8.0/lab_enum.AssemblyInfo.cs
+/Users/arturniklewicz/dNET/labs.NET/lab_enum/obj/Debug/net8.0/lab_enum.csproj.CoreCompileInputs.cache
+/Users/arturniklewicz/dNET/labs.NET/lab_enum/bin/Debug/net8.0/lab_enum
+/Users/arturniklewicz/dNET/labs.NET/lab_enum/bin/Debug/net8.0/lab_enum.deps.json
+/Users/arturniklewicz/dNET/labs.NET/lab_enum/bin/Debug/net8.0/lab_enum.runtimeconfig.json
+/Users/arturniklewicz/dNET/labs.NET/lab_enum/bin/Debug/net8.0/lab_enum.dll
+/Users/arturniklewicz/dNET/labs.NET/lab_enum/bin/Debug/net8.0/lab_enum.pdb
+/Users/arturniklewicz/dNET/labs.NET/lab_enum/obj/Debug/net8.0/lab_enum.dll
+/Users/arturniklewicz/dNET/labs.NET/lab_enum/obj/Debug/net8.0/refint/lab_enum.dll
+/Users/arturniklewicz/dNET/labs.NET/lab_enum/obj/Debug/net8.0/lab_enum.pdb
+/Users/arturniklewicz/dNET/labs.NET/lab_enum/obj/Debug/net8.0/lab_enum.genruntimeconfig.cache
+/Users/arturniklewicz/dNET/labs.NET/lab_enum/obj/Debug/net8.0/ref/lab_enum.dll
