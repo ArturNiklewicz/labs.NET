@@ -51,6 +51,9 @@
 
     private static void ViewTasks()
     {
-        throw new NotImplementedException();
+        foreach (var task in tasks)
+        {
+            Console.WriteLine(task);
+        }
     }
 }
