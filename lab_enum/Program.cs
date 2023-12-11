@@ -35,18 +35,28 @@
 
     static void AddTask()
     {
-        Console.WriteLine("You are adding a task:");
+        Console.WriteLine("\nYou are adding a task:");
         Console.Write("Name: ");
         string name = Console.ReadLine();
         Console.Write("Description: ");
         string description = Console.ReadLine();
         Console.Write("Day: ");
-        EnumExample.DayOfWeek day = (EnumExample.DayOfWeek)Convert.ToInt32(Console.ReadLine());
+        EnumExample.DayOfWeek day = (EnumExample.DayOfWeek)Convert.ToInt32(Console.ReadLine()) - 1;
         tasks.Add(new EnumExample.Task(name, description, day));
     }
     private static void DeleteTask()
     {
-        throw new NotImplementedException();
+        Console.Write("\nEnter the name of the task to delete: ");
+        string name = Console.ReadLine(); //TODO: sprawdzić czy task o takiej nazwie istnieje
+        if (tasks.Exists(task => task.Name == name))
+        {
+            tasks.RemoveAll(task => task.Name == name);
+            Console.WriteLine($"You have deleted {name}, now you have got {tasks.Count()} tasks\n");
+        }
+        else
+        {
+            Console.WriteLine("There is no task with this name\n");
+        }
     }
 
     private static void ViewTasks()
