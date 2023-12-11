@@ -23,7 +23,7 @@ namespace EnumExample
 
         public override string ToString()
         {
-            return $"Task: {Name}\nDescription: {Description}\nDay: {Day}";
+            return $"Task: {Name}\nDescription: {Description}\nDay: {Day}\n";
         }
     }
 }

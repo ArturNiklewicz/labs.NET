@@ -12,3 +12,4 @@
 /Users/arturniklewicz/dNET/labs.NET/lab_enum/obj/Debug/net8.0/lab_enum.pdb
 /Users/arturniklewicz/dNET/labs.NET/lab_enum/obj/Debug/net8.0/lab_enum.genruntimeconfig.cache
 /Users/arturniklewicz/dNET/labs.NET/lab_enum/obj/Debug/net8.0/ref/lab_enum.dll
+/Users/arturniklewicz/dNET/labs.NET/lab_enum/obj/Debug/net8.0/lab_enum.sourcelink.json
